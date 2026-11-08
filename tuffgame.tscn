@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://s02uii4xvpr6"]
+
+[node name="tuffgame" type="Node2D" unique_id=814696191]
+position = Vector2(2, 3)
